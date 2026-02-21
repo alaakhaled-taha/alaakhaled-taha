@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Alaa Khaled 👋
 
-<!--
-**alaakhaled-taha/alaakhaled-taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Engineering Student – Cairo University  
+🤖 AI & Machine Learning Enthusiast  
+🧠 Interested in AI applications in Healthcare, Computer Vision, and Medical Data Analysis.
 
-Here are some ideas to get you started:
+I enjoy building intelligent systems that combine **engineering, machine learning, and biomedical knowledge** to solve real-world healthcare challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 Technical Skills
+
+## Programming Languages
+- Python  
+- C++  
+- Java  
+- JavaScript  
+
+## Artificial Intelligence & Machine Learning
+- Machine Learning  
+- Deep Learning   
+- Data Preprocessing  
+ 
+
+---
+
+# 🧰 Tools & Frameworks
+
+## AI / Data Science Libraries
+- TensorFlow  
+- scikit-learn  
+- OpenCV  
+- NumPy  
+- Matplotlib 
+
+## Development Tools
+- Git & GitHub  
+- VS Code  
+- IntelliJ IDEA  
+
+
+---
+
+
+
+# 🌍 Connect With Me
+
+📧 Email  
+alaakhaled22911@gmail.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/alaa-khaled-aa4179284  
+
+💻 GitHub  
+https://github.com/alaakhaled-taha
